@@ -14,6 +14,8 @@ def battle(fighter1, fighter2):
     """Fight two bots 1v1. They take turns dealing random damage until one hits 0 HP.
 
     Returns the winning fighter dict (the champion keeps leftover HP).
+    The winner is the one who deals more damage to the opponent.
+
     """
     print(f"\n{'='*40}")
     print(f"⚔️ {fighter1['name']} VS {fighter2['name']} ⚔️")
