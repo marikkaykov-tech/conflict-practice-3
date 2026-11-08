@@ -73,3 +73,4 @@ def run_tournament(fighters):
 if __name__ == "__main__":
     # Start the tournament when this file is run directly
     run_tournament(ROSTER)
+    print("🎉 ABSOLUTE TOURNAMENT CHAMPION: Eran the Resolver! 🎉")
