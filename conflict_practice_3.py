@@ -9,7 +9,11 @@ ROSTER = [
     {"name": "mosa", "hp": 105, "attack": (8, 18), "phrase": "Merge conflict? No problem!"},
     {"name": "Eran the Resolver", "hp": 105, "attack": (7, 18), "phrase": "Conflict? Already merged."},
     # --- ADD HERE ---
+    {"name": "Yogev the Unexpected", "hp": 100, "attack": (8, 22), "phrase": "Didn't see that coming, did you?"},
 ]
+   
+
+
 
 # =====================================================================
 
