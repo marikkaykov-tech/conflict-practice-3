@@ -11,7 +11,11 @@ ROSTER = [
     {"name": "Eran the Resolver", "hp": 105, "attack": (7, 18), "phrase": "Conflict? Already merged."},
     {"name": "Idan the Unmergeable", "hp": 130, "attack": (15, 28), "phrase": "git push --force to victory!"},
     # --- ADD HERE ---
+    {"name": "Yogev the Unexpected", "hp": 100, "attack": (8, 22), "phrase": "Didn't see that coming, did you?"},
 ]
+   
+
+
 
 
 A
